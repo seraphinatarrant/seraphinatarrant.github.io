@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+name: Seraphina Goldfarb-Tarrant
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
