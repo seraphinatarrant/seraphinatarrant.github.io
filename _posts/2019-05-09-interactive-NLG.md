@@ -31,7 +31,7 @@ This is what my research goes into. I investigate 3 questions:
 * Does the stage at which a human is involved (in the _planning_, in the _writing_, in some of the style controls) matter? Are some types of collaboration more effective than others?
 * If a human tries to improve a _specific_ aspect of a story (make it more creative, more relevant, or more coherent) can they do so effectively?
 
-##Set-up:
+## Set-up:
 I start by training a neural network to write 5 sentence stories when given a title. 
 Since I want to involve humans in _planning_, not just in _writing_, I train a second network to make a plan from a title (and then train the first network to use that plan as it writes).
 
@@ -51,7 +51,7 @@ ellie was happy to be able to take the dog to the vet.<sup>[3](#footnote3)</sup>
 I give random humans a little web application<sup>[4](#footnote4)</sup> so that they can co-write 
 with my neural network, with _only 5 minutes._ <br>
 The interface looks like this (a screenshot has been annotated with sections that a human edited):
-![Screenshot of Interface](../images/medium_interactive_annotated.png)
+![Screenshot of Interface](https://seraphinatarrant.github.io/images/medium_interactive_annotated_blue.png)
 
 And then I ask different random humans what they thought of the stories. <br>
 Some human creators in the experiment can only control the “creativity level” of the text, 
@@ -61,7 +61,7 @@ that they want. Some humans are directed to try to improve certain story aspects
 I also ask the human writers how much they enjoyed the process, and what they think of their own stories, 
 so that I can measure the correlation of their experience to the results.
 
-##Wait why do we care again?
+## Wait why do we care again?
 Good question. We might care about human objective experience if we’re designing the user experience 
 of a piece of software. Even if you’re a researcher like me, it’s good to know what people like to 
 do more, because it is easier to get data when you have willing victims to experiment on. 
@@ -86,7 +86,7 @@ since most of the differences should be directly related to quality.
 
 That’s the idea. But this depends on humans being able to actually make stories better, rather than just think that they are.
 
-##Extra Set-up
+## Extra Set-up
 One more thing. <br>
 To prove that, if I had this ideal training data, I could use it, I also added _Discriminators_ to my system, for the same qualities that I asked humans to improve. 
 If you know about [Generative-Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GANs) 
@@ -114,9 +114,9 @@ So while the human is trying to make a given story more Creative, the Creativity
 
 
 
-##Results
+## Results
 Here are the results from my experiments (I will explain them in English):<br>
-![Results tables](../images/NAACL_results_tables.png)
+![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png)
 
 The takeaways are these:
 1. humans _do_ improve the things they are trying to improve (this is exciting!)
