@@ -116,7 +116,7 @@ So while the human is trying to make a given story more Creative, the Creativity
 
 ## Results
 Here are the results from my experiments (I will explain them in English):<br>
-![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png)
+![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png)<!-- .element height="75%" width="75%" -->
 
 The takeaways are these:
 1. humans _do_ improve the things they are trying to improve (this is exciting!)
@@ -133,7 +133,7 @@ But result #4 - why involving humans in only story-writing was in fact the best 
 
 But first, we train pocket-humans.
 
-##### Footnotes
+### Footnotes
 <a name="footnote1">1</a>: in other words, it forces the human mind to model something incorrectly by showing it limited context <br>
 <a name="footnote2">2</a>: This is actually somewhat surprising - since the thing that makes _humans_ able to play exquisite corpse is being more like a neural network. But that would be a long discussion, so take my word for it <br>
 <a name="footnote3">3</a>: Ta-da! Yes the neural networks wrote that. Also the storyline/plan representation is that way because I designed it to be, not because of anything intrinsic to neural nets. <br>
