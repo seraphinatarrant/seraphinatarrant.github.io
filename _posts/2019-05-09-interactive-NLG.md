@@ -119,7 +119,7 @@ So while the human is trying to make a given story more Creative, the Creativity
 ## Results
 Here are the results from my experiments (I will explain them in English):
 <br>
-![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png){:height="250px" width="250px"}
+![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png){:height="75%" width="75%"}
 <br>
 
 The takeaways are these:
