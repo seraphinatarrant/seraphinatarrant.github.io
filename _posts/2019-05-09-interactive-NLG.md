@@ -55,7 +55,9 @@ The interface looks like this (a screenshot has been annotated with sections tha
 ![Screenshot of Interface](https://seraphinatarrant.github.io/images/medium_interactive_annotated_blue.png){:height="50%" width="50%"}
 <br>
 
-And then I ask different random humans what they thought of the stories. <br>
+(There also is a 3 minute video of the interface in use [here on youtube](https://www.youtube.com/watch?v=-hGd2399dnA&feature=youtu.be).)
+
+And then after the writing is done I ask _different_ random humans what they thought of the stories. <br>
 Some human creators in the experiment can only control the “creativity level” of the text, 
 others can co-write the plot, others can co-write the stories, and others can play with any part 
 that they want. Some humans are directed to try to improve certain story aspects.
