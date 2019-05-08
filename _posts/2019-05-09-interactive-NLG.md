@@ -51,7 +51,9 @@ ellie was happy to be able to take the dog to the vet.<sup>[3](#footnote3)</sup>
 I give random humans a little web application<sup>[4](#footnote4)</sup> so that they can co-write 
 with my neural network, with _only 5 minutes._ <br>
 The interface looks like this (a screenshot has been annotated with sections that a human edited):
-<img src="https://seraphinatarrant.github.io/images/medium_interactive_annotated_blue.png" height="25%" width="25%">
+<br>
+![Screenshot of Interface](https://seraphinatarrant.github.io/images/medium_interactive_annotated_blue.png){:height="50%" width="50%"}
+<br>
 
 And then I ask different random humans what they thought of the stories. <br>
 Some human creators in the experiment can only control the “creativity level” of the text, 
@@ -115,8 +117,10 @@ So while the human is trying to make a given story more Creative, the Creativity
 
 
 ## Results
-Here are the results from my experiments (I will explain them in English):<br>
+Here are the results from my experiments (I will explain them in English):
+<br>
 ![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png){:height="250px" width="250px"}
+<br>
 
 The takeaways are these:
 1. humans _do_ improve the things they are trying to improve (this is exciting!)
