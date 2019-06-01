@@ -119,8 +119,12 @@ So while the human is trying to make a given story more Creative, the Creativity
 
 
 ## Results
-Here are the results from my experiments (I will explain them in English):
+Here are the results from my experiments (I will explain them in English after):
 <br>
+### Pretty graph of the results of all the variations on interactivity:
+![Results graph](https://seraphinatarrant.github.io/images/NAACL_results_graph.png){:height="30%" width="30%"}
+
+### Tables of numbers of the results:
 ![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png){:height="50%" width="50%"}
 <br>
 
