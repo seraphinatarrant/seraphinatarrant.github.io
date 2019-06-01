@@ -52,7 +52,7 @@ I give random humans a little web application<sup>[4](#footnote4)</sup> so that 
 with my neural network, with _only 5 minutes._ <br>
 The interface looks like this (a screenshot has been annotated with sections that a human edited):
 <br>
-![Screenshot of Interface](https://seraphinatarrant.github.io/images/medium_interactive_annotated_blue.png){:height="50%" width="50%"}
+![Screenshot of Interface](https://seraphinatarrant.github.io/images/medium_interactive_annotated_blue.png){:height="75%" width="75%"}
 <br>
 
 (There also is a 3 minute video of the interface in use [here on youtube](https://www.youtube.com/watch?v=-hGd2399dnA&feature=youtu.be).)
@@ -122,10 +122,10 @@ So while the human is trying to make a given story more Creative, the Creativity
 Here are the results from my experiments (I will explain them in English after):
 <br>
 ### Pretty graph of the results of all the variations on interactivity:
-![Results graph](https://seraphinatarrant.github.io/images/NAACL_results_graph.png){:height="50%" width="50%"}
+![Results graph](https://seraphinatarrant.github.io/images/NAACL_results_graph.png){:height="75%" width="75%"}
 
 ### Tables of numbers of the results:
-![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png){:height="50%" width="50%"}
+![Results tables](https://seraphinatarrant.github.io/images/NAACL_results_tables.png){:height="70%" width="70%"}
 <br>
 
 The takeaways are these:
